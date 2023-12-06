@@ -1040,32 +1040,6 @@ nav .login:hover a {
           justify-content: center;
   margin-top: 50px;
 }
-
-#photo {
-  margin-bottom: 350px;
-  background: #f4f4f4;
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
-#photo button {
-  color: #242424;
-  font-family: "Cera Round Pro", sans-serif;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 175%; /* 28px */
-  letter-spacing: 0.64px;
-  border-radius: 100px;
-  border: 1px solid #BB2339;
-  padding: 8px 32px;
-  background-color: transparent;
-}
-#photo .photo .carousel__card {
-  height: 300px;
-  border-radius: 14px;
-  border: 2px solid rgba(36, 36, 36, 0.2);
-  position: relative;
-}
 #subs {
   background-color: #fff;
   position: relative;

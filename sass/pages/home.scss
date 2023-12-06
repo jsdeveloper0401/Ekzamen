@@ -480,61 +480,6 @@ nav {
     }
 }
 
-#photo {
-    margin-bottom: 350px;
-    background: #f4f4f4;
-    padding-top: 120px;
-    padding-bottom: 120px;
-    button {
-        color: #242424;
-        font-family: "Cera Round Pro", sans-serif;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 175%; /* 28px */
-        letter-spacing: 0.64px;
-        border-radius: 100px;
-        border: 1px solid var.$primary-color;
-        padding: 8px 32px;
-        background-color: transparent;
-    }
-    .photo {
-        .carousel__card {
-            height: 300px;
-            border-radius: 14px;
-            border: 2px solid rgba(36, 36, 36, 0.2);
-            position: relative;
-            &::after {
-                content: "";
-                position: absolute;
-                top: 300px;
-                left: 50px;
-                display: inline-block;
-                width: 100px;
-                height: 100px;
-                background: url("../../image/home/instagram.svg") no-repeat
-                    center;
-                transition: 1s;
-            }
-            &:hover::after {
-                top: 110px;
-                left: 50px;
-            }
-            .card__hover {
-                position: absolute;
-                top: -130px;
-                left: -80px;
-            }
-            &:hover {
-                background: linear-gradient(
-                    230deg,
-                    rgba(0, 0, 0, 0.75) 8.77%,
-                    rgba(0, 0, 0, 0.64) 79.13%
-                );
-            }
-        }
-    }
-}
 #subs {
     background-color: #fff;
     position: relative;
