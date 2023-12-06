@@ -1,0 +1,88 @@
+#mode__btn{
+    margin-right: 20px;
+}
+.dark main,
+.dark .join,
+.dark .rele__card,
+.dark .world__info,
+.dark .share__card{
+  background: #0D0D0D;
+}
+.dark .rele__card,
+.dark .share__card {
+    box-shadow: 0px 0px 10px 5px var.$primary-color;
+}
+.dark a,
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6,
+.dark p{
+    color: var.$white-color;
+}
+.dark .nav__btn{
+    box-shadow: 0px 0px 10px 5px var.$primary-color;
+}
+.dark .rele__icon{
+    color: #0D0D0D;
+}
+.dark .footer__input{
+    box-shadow: 0px 0px 5px 2px var.$white-color;
+}
+.dark .footer__btn{
+    box-shadow: 0px 0px 5px 2px var.$primary-color;
+}
+.dark #backtop{
+    box-shadow: 0px 0px 10px 5px var.$primary-color;
+}
+.dark #navbar-responsive{
+    background-color: #0D0D0D;
+    color: var.$white-color
+}
+.dark .close{
+    color: var.$white-color;
+}
+.dark main {
+    background-color: #0D0D0D;
+}
+
+.dark main * {
+    color: white;
+}
+
+.dark #navbar.navbar-shrink{
+    box-shadow: 0 0 10px 5px #FFD2A4;
+}
+
+.dark footer{
+    background-color: #0D0D0D;
+}
+.dark main {
+    background-color: #0D0D0D;
+}
+
+.dark main * {
+    color: white;
+}
+
+.dark #hero *{
+    color: black;
+}
+
+.dark #navbar.navbar-shrink{
+    box-shadow: 0 0 10px 5px #FFD2A4;
+}
+
+.dark .members__card{
+    background-color: #FFD2A4;
+}
+
+.dark .members__card *{
+    color: black;
+}
+
+.dark .footer{
+    background-color: #0D0D0D;
+}
