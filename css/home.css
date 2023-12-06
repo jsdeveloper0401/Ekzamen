@@ -940,7 +940,7 @@ nav .login:hover a {
 
 #news {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 250px;
 }
 #news .news__item {
   grid-template-columns: repeat(3, 1fr);
